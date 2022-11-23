@@ -1,1 +1,1 @@
-# shopify-product
+# shopify-product: https://saifemon.github.io/shopify-product/
